@@ -4,7 +4,6 @@ body{
 h1{
     font-size: xx-large;
     font-family: cursive;
-    font-weight: 700;
     letter-spacing: normal;
     line-height: 2.0em;
     margin-top:  0.24em;
@@ -13,11 +12,11 @@ h1{
  h2{
     font-size: xx-large;
     font-family: cursive;
-    font-weight: 700;
     letter-spacing: normal;
     line-height: 2.0em;
     margin-top:  0.24em;
     padding-top: 1em;
+    align-content: center;
 
     
  }
@@ -28,11 +27,70 @@ a {
     font-style: italic;
 }
 p{
-    font-size: large;
+    font-size: 2em;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 400;
-    letter-spacing: normal;
+    letter-spacing: 0.05em;
     line-height: 1.5em;
     margin-top:  0.24em;
     padding-top: 1em;
+   align-content: center;
 }
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: rgb(84, 6, 108);
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+/* On screens that are 800px wide or less, the background color is blue */
+@media screen and (max-width: 800px) {
+  body {
+    background-color: blue;
+    color: white;
+  }
+}
+
+/* On screens that are 600px wide or less, the background color is olive */
+@media screen and (max-width: 400px) {
+  body {
+    background-color: rgb(133, 212, 244);
+    color: white;
+  }
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr; /* single column by default */
+}
+
+@media (min-width: 768px) {
+  .container {
+    grid-template-columns: repeat(2, 1fr); /* two columns on larger screens */
+  }
+}
+  
+
+table {
+  flex-direction: column;
+
+}
+
+
+
+
+
+
+
