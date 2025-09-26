@@ -83,14 +83,16 @@ a:active {
 }
   
 
-table {
-  flex-direction: column;
+td,th {
+font-size: 2.5em;
 
 }
 
 
 
-
+a {
+  font-size: 2em;
+}
 
 
 
