@@ -1,4 +1,4 @@
-# SCREEN OF MY WEBSITE
+# SCREEN OF MY WEBSITE FOR PART 1
 <img width="1919" height="1073" alt="Screenshot 2025-08-27 234059" src="https://github.com/user-attachments/assets/6badeb59-ad9b-4064-8846-c36676ea1049" />
 <img width="1919" height="1079" alt="Screenshot 2025-08-27 234118" src="https://github.com/user-attachments/assets/385950e8-9ed5-4dfe-affb-ddf5897b5877" />
 <img width="1603" height="766" alt="Screenshot 2025-08-27 234134" src="https://github.com/user-attachments/assets/59c14b11-b673-4880-b8a6-3c7f6d9fff15" />
