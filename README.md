@@ -24,4 +24,12 @@
 <img width="1229" height="816" alt="Screenshot 2025-09-29 143643" src="https://github.com/user-attachments/assets/848d1baf-aca4-47ce-93f8-c823bd0ed195" />
 # REPOSITORY LINK
 https://github.com/Yola-sudo/Web-Dev-POE
+# MY COMMITS
+<img width="659" height="691" alt="Screenshot 2025-09-29 142623" src="https://github.com/user-attachments/assets/0d24830a-069e-4096-bca1-414c1618f10f" />
+<img width="643" height="697" alt="Screenshot 2025-09-29 143124" src="https://github.com/user-attachments/assets/d2e8e744-bef4-4f9a-b6f9-854bb6ccfd18" />
+<img width="652" height="691" alt="Screenshot 2025-09-29 144025" src="https://github.com/user-attachments/assets/f18f8017-f127-47b8-9327-fd653a9264b2" />
+<img width="663" height="678" alt="Screenshot 2025-09-29 144322" src="https://github.com/user-attachments/assets/facd6fdc-455b-4a90-a359-3c99f50cbc59" />
+<img width="381" height="448" alt="Screenshot 2025-09-26 152448" src="https://github.com/user-attachments/assets/989066b3-fbb8-4b85-8f6e-9cab3be36e0a" />
+<img width="358" height="579" alt="Screenshot 2025-09-28 163706" src="https://github.com/user-attachments/assets/55c2e387-c453-408a-aa4f-6ae3afabc107" />
+<img width="361" height="383" alt="Screenshot 2025-09-29 135428" src="https://github.com/user-attachments/assets/9628d9c4-a433-44a5-aa84-5a73415966a0" />
 
