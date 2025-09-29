@@ -32,4 +32,5 @@ https://github.com/Yola-sudo/Web-Dev-POE
 <img width="381" height="448" alt="Screenshot 2025-09-26 152448" src="https://github.com/user-attachments/assets/989066b3-fbb8-4b85-8f6e-9cab3be36e0a" />
 <img width="358" height="579" alt="Screenshot 2025-09-28 163706" src="https://github.com/user-attachments/assets/55c2e387-c453-408a-aa4f-6ae3afabc107" />
 <img width="361" height="383" alt="Screenshot 2025-09-29 135428" src="https://github.com/user-attachments/assets/9628d9c4-a433-44a5-aa84-5a73415966a0" />
+<img width="665" height="675" alt="Screenshot 2025-09-29 144713" src="https://github.com/user-attachments/assets/d5a6b1ee-3562-4ff3-93b1-95bca6e2f1eb" />
 
