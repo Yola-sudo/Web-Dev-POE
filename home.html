@@ -5,6 +5,15 @@
          <meta name = "keywords" content = "HTML, CSS, JavaScript">
     <title>Home</title><!--This tag is used to be shown in the top bar of the website--> <!--IIE,2025-->
     <link href="CSS/styles.css" rel="stylesheet" type="text/css"> <!--This link connects the style sheet to all the different webpages created--> <!--IIE,2025-->
+    <style type = "text/css">
+            a img {
+                border: solid 6px black;
+            }
+
+            a:hover img{
+                border: solid 6px #eab7f0;
+            }
+         </style>
     <div >
     <img src="AIDS FOUND OF SA" alt="an image of the WWF organisation" class="image-style different-image"> <!--a picture tag so that i can put pictures in my work--> <!--IIE,2025-->
     <nav>
@@ -33,12 +42,15 @@
  <u>Spreading the word</u>: Help us raise awareness about HIV/AIDS and the importance of support services by sharing our message with your network.<br>
  <u>Getting involved</u>: Contact us to learn more about our services and how you can get involved, whether through volunteering, donating, or partnering with us.Every contribution counts! Whether you're an individual, organization, or community leader, your support will help us provide vital services to those affected by HIV/AIDS. Together, we can create a brighter future for individuals and communities in South Africa.<br>
 </p><!--(AIDS FOUNDATION OF SA,2025)-->
-<div class="gallery">
-    <a href="im"
-<img src="AIDS.jpg" alt="A picture of people with special needs"> <!--IIE,2025-->
-<img src="Positive Women.jpg" alt="A poster of positive Aids women and offered services"><!--IIE,2025-->
-<img src="Protest.jpg" alt="A protest of the people"><br><!--IIE,2025-->
-</div>
+
+    <a href="images/AIDS.jpg" data-lightbox="Aids by AIDS Foundation of SA" title="AIDS" ><img src="images/AIDS.jpg"  alt="People sitting on wheelchairs and people standing having a conversation"></a>
+    <a href="images/Positive Women.jpg" data-lightbox="Positive Women by AIDS Foundation of SA" title="Positive Women"><img src="images/Positive Women.jpg" alt="Women standing together to fight for positive women"></a>
+    <a href="images/Protest.jpg" data-lightbox="Protest by AIDS Foundation of SA " title="Protest"><img src="images/Protest.jpg" alt="People going on the road to protest about their situation"></a>
+
+    <script src = "js/jquery-1.10.2.min.js"></script>
+     <script src = "js/lightbox-2.6.min.js"></script>
+     <script src = "js/modernizr.custom.js"></script>
+
 <footer> <!--IIE,2025-->
     &copy; 2024 Aids Foundation South Africa. All rights reserved. <!--this is used so that no one steals my work--> <!--IIE,2025-->
 </footer>
