@@ -78,14 +78,12 @@ I implemented the feedback from Part One and ensured that my project adheres to 
 ## REPOSITORY LINK
 https://github.com/Yola-sudo/Web-Dev-POE
 ## REFERENCING
-<!--AIDS FOUNDATION OF SOUTH AFRICA,2025.CALL TO ACTION – PLEASE DONATE AND SAVE THE GAY AND LESBIAN NETWORK FROM CLOSURE[online] Availabe at:https://www.aids.org.za/call-to-action-please-donate-and-save-the-gay-and-lesbian-network-from-closure/ [Accessed 26 September 2025]-->
-<!--AIDS FOUNDATION OF SOUTH AFRICA,2025. Adolescent and Young Persons Programme  [online] Available at: https://www.aids.org.za/ayp-programme/ [Accessed 26 September 2025]-->
-<!--AIDS FONDATION OF SOUTH AFRICA,2025.AIDS FOUNDATION OF SOUTH AFRICA[electronic print]. Available at:https://www.aids.org.za/ [Accessed 26 September 2025] -->
-<!--DailyNews,2025.US shutdown of HIV/Aids funding ‘could lead to 500,000 deaths in South Africa’ [electronic print]. Available at:https://dailynews.co.zw/us-shutdown-of-hiv-aids-funding-could-lead-to-500000-deaths-in-south-africa/ [Accessed 26 SEPTEMBER 2025]-->
-<!--IoL,2023.SA Aids conference kicks off in Durban[electronic print].Available at:https://iol.co.za/the-star/news/2023-06-20-sa-aids-conference-kicks-off-in-durban/ [Accessed 26 September 2025]-->
-<!--linkedin,2025.HIV [electronic print]. Available at: https://www.linkedin.com/posts/aids-foundation-of-south-africa_big-news-to-stem-the-tide-of-new-infections-activity-7250039993048449024-xJ_i/ [Accessed 26 September 2025]-->
-<!--Businesswire,2025.AHF Global World Aids Day focuses on testing and treating Aids[electronic print]. Available at: https://www.businesswire.com/newsroom [Accessed 26 September 2025]-->
-<!--The Independent Institution of Education (IIE),2025. Web Development(INTRODUCTIO) [WEDE5020 Module Manual]. The Independent Institution of Education:
+AIDS FOUNDATION OF SOUTH AFRICA,2025.CALL TO ACTION – PLEASE DONATE AND SAVE THE GAY AND LESBIAN NETWORK FROM CLOSURE[online] Availabe at:https://www.aids.org.za/call-to-action-please-donate-and-save-the-gay-and-lesbian-network-from-closure/ [Accessed 26 September 2025]
+AIDS FOUNDATION OF SOUTH AFRICA,2025. Adolescent and Young Persons Programme  [online] Available at: https://www.aids.org.za/ayp-programme/ [Accessed 26 September 2025]-->AIDS FONDATION OF SOUTH AFRICA,2025.AIDS FOUNDATION OF SOUTH AFRICA[electronic print]. Available at:https://www.aids.org.za/ [Accessed 26 September 2025] 
+DailyNews,2025.US shutdown of HIV/Aids funding ‘could lead to 500,000 deaths in South Africa’ [electronic print]. Available at:https://dailynews.co.zw/us-shutdown-of-hiv-aids-funding-could-lead-to-500000-deaths-in-south-africa/ [Accessed 26 SEPTEMBER 2025]
+IoL,2023.SA Aids conference kicks off in Durban[electronic print].Available at:https://iol.co.za/the-star/news/2023-06-20-sa-aids-conference-kicks-off-in-durban/ [Accessed 26 September 2025]
+linkedin,2025.HIV [electronic print]. Available at: https://www.linkedin.com/posts/aids-foundation-of-south-africa_big-news-to-stem-the-tide-of-new-infections-activity-7250039993048449024-xJ_i/ [Accessed 26 September 2025]-->Businesswire,2025.AHF Global World Aids Day focuses on testing and treating Aids[electronic print]. Available at: https://www.businesswire.com/newsroom [Accessed 26 September 2025]
+The Independent Institution of Education (IIE),2025. Web Development(INTRODUCTIO) [WEDE5020 Module Manual]. The Independent Institution of Education:
 
 
 
