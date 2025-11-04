@@ -34,8 +34,8 @@ p{
   text-align: center;
 }
 img {
-  max-width: 30%;
-  width:15%;
+  max-width: 50%;
+  width:25%;
   box-shadow:5px 5px 15px rgba(0,0,0,0.9);
   height: auto;
   margin:0 auto;
@@ -53,16 +53,15 @@ footer{
 header{
   
   background-color: rgb(126, 126, 205);
-  
-
+   display: flex;
+  align-items: center;
 }
-nav{
+div{
   display: flex;
   align-items: center;
-  gap: 20px;
-  padding: 10px;
+   gap: 60px;
+   justify-content: space-between;
 }
-
 
 a:hover {
  background-color: #facefb;
@@ -327,3 +326,5 @@ body:after {
     cursor: pointer;
     opacity: 1;
 }
+
+

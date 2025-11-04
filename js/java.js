@@ -1,6 +1,6 @@
  // over here we are setting up a function that listens for all the pages
 // content to be loaded 
-document.addEventListener('DOMContentLoaded'), function() {
+document.addEventListener('DOMContentLoaded', function() {
     // we load in our form and our error message
     const EnquiryForm = document.getElementById('EnquiryForm');
     const errorMessage = document.getElementById('validationError');
@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded'), function() {
     // now we tell it what to do when the form is submitted
     // we pass "event" through to the new funtion we're making
     // so that we can use some of its properties
-    EnquiryForm.addEventListener('submit'), function(event) {
+    EnquiryForm.addEventListener('submit', function(event) {
         //this prevents the form from being submitted if there are errors
         event.preventDefault();
 
@@ -18,11 +18,10 @@ document.addEventListener('DOMContentLoaded'), function() {
         const lastname = document.getElementById('lastname');
         const email = document.getElementById('email');
         const password = document.getElementById('password');
-
         // then we change them
         errorMessage.textContent = ""; // blanking the error message
-        username.style.borderColor = ""; // removing colour
-        fullname.style.bordercolor = "";
+        firstname.style.borderColor = ""; // removing colour
+        lastname.style.borderColor = "";
         email.style.borderColor = "";
         password.style.borderColor = "";
 
@@ -39,7 +38,7 @@ document.addEventListener('DOMContentLoaded'), function() {
             valid = false;
         } else {
             // otherwise, highlight in green to show it is valid and good
-            firstname.style.borderColor = "green";
+            firstname.style.bordercolor = "green";
         }
 
         if (lastname.value.trim() === ""){
@@ -96,7 +95,7 @@ document.addEventListener('DOMContentLoaded'), function() {
                 errorMessage.textContent = "Form submitted successfully!";
 
                 // and clear the form for the next entry
-                Form.reset();
+                EnquiryForm.reset();
 
                 // after waiting 2 secs reset colours and error message
                 setTimeout(() => {
@@ -109,6 +108,6 @@ document.addEventListener('DOMContentLoaded'), function() {
                 }, 2000);
             }
 
-    }
-}
+    });
+});
 

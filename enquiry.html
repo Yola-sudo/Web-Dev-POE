@@ -5,9 +5,18 @@
          <meta name = "keywords" content = "HTML, CSS, JavaScript">
         <title>Enquiry</title><!--IIE,2025-->
          <link href="CSS/styles.css" rel="stylesheet" type="text/css"><!--IIE,2025-->
-        <div >
+         <style type = "text/css">
+            a img {
+                border: solid 6px black;
+            }
+
+            a:hover img{
+                border: solid 6px #eab7f0;
+            }
+         </style>
+        <div class="container" >
         <a href="images/AIDS FOUND OF SA" data-lightbox="Logo" title="AIDS FOUNDATION OF SOUTH AFRICA"><img src="images/AIDS FOUND OF SA"  alt="an image of the WWF organisation" class="image-style different-image"></a> <!--a picture tag so that i can put pictures in my work--> <!--IIE,2025-->
-        <nav>
+        <nav class="links">
         <a href="home.html" target="_blank"> Home Page</a> <!--IIE,2025-->
         <a href="aboutus.html" target="_blank"> About Us</a> <!--IIE,2025-->
         <a href="services.html" target="_blank"> Services</a> <!--IIE,2025-->
@@ -45,7 +54,9 @@
      <p id = "validationError" style = "color: red;"></p>
         <script src = "JS/java.js"></script>
 
-
+     <script src = "js/jquery-1.10.2.min.js"></script>
+     <script src = "js/lightbox-2.6.min.js"></script>
+     <script src = "js/modernizr.custom.js"></script>
         
     <footer>
     &copy; 2024 Aids Foundation South Africa. All rights reserved.
