@@ -13,7 +13,7 @@
 <img width="1778" height="770" alt="Screenshot 2025-09-29 135738" src="https://github.com/user-attachments/assets/102424a6-46ec-468d-99df-d8b819aad258" />
 <img width="1507" height="546" alt="Screenshot 2025-09-29 135810" src="https://github.com/user-attachments/assets/5548928c-2cc3-46dc-ad6c-323634c56503" />
 <img width="1691" height="908" alt="Screenshot 2025-09-29 135844" src="https://github.com/user-attachments/assets/552d492c-3cc1-4f53-a219-eb9ad48f32ea" />
-# Screenshots of my code
+## Screenshots of my code
 <img width="1346" height="955" alt="Screenshot 2025-09-29 143242" src="https://github.com/user-attachments/assets/80aa2be5-f5bc-4016-9090-f8162f185fd0" />
 <img width="1316" height="931" alt="Screenshot 2025-09-29 143312" src="https://github.com/user-attachments/assets/2375514d-8646-472e-b241-1e6a0f82b8a1" />
 <img width="1322" height="875" alt="Screenshot 2025-09-29 143412" src="https://github.com/user-attachments/assets/f7d8783d-3bfe-4d08-bdee-1de83d27bded" />
@@ -59,7 +59,7 @@ I implemented the feedback from Part One and ensured that my project adheres to 
 <img width="1040" height="858" alt="Screenshot 2025-11-04 132220" src="https://github.com/user-attachments/assets/a8080c43-9571-49ac-8f37-c076d2403500" />
 <img width="1031" height="839" alt="Screenshot 2025-11-04 132232" src="https://github.com/user-attachments/assets/7e6e4ee2-c8b1-40d1-abfe-17d3503fb938" />
 <img width="862" height="758" alt="Screenshot 2025-11-04 132243" src="https://github.com/user-attachments/assets/9deff767-e763-41cf-93d9-67c794442da6" />
-##REFERENCING
+## REFERENCING
 <!--REFERENCING LIST-->
 <!--AIDS FOUNDATION OF SOUTH AFRICA,2025.CALL TO ACTION – PLEASE DONATE AND SAVE THE GAY AND LESBIAN NETWORK FROM CLOSURE[online] Availabe at:https://www.aids.org.za/call-to-action-please-donate-and-save-the-gay-and-lesbian-network-from-closure/ [Accessed 26 September 2025]-->
 <!--AIDS FOUNDATION OF SOUTH AFRICA,2025. Adolescent and Young Persons Programme  [online] Available at: https://www.aids.org.za/ayp-programme/ [Accessed 26 September 2025]-->
