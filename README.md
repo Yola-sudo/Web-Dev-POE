@@ -7,7 +7,7 @@
 <img width="1722" height="771" alt="Screenshot 2025-08-27 234252" src="https://github.com/user-attachments/assets/6cd4d2dc-633e-4935-82c0-f7ccd3ae7e01" />
 <img width="1909" height="910" alt="Screenshot 2025-08-27 234309" src="https://github.com/user-attachments/assets/3eac6915-40e3-495f-bc96-24b4b3c610cb" />
 
-# SCREENSHOTS OF MY WEBSITE FOR PART 2 WITH CHANGES 
+## SCREENSHOTS OF MY WEBSITE FOR PART 2 WITH CHANGES 
 <img width="1916" height="945" alt="Screenshot 2025-09-29 135558" src="https://github.com/user-attachments/assets/8ca77254-1c3c-47af-b5ca-defcf52b139f" />
 <img width="1886" height="905" alt="Screenshot 2025-09-29 135636" src="https://github.com/user-attachments/assets/b933c7aa-15ac-4901-88f4-093fff63e74d" />
 <img width="1778" height="770" alt="Screenshot 2025-09-29 135738" src="https://github.com/user-attachments/assets/102424a6-46ec-468d-99df-d8b819aad258" />
@@ -22,9 +22,9 @@
 <img width="1333" height="893" alt="Screenshot 2025-09-29 143522" src="https://github.com/user-attachments/assets/d6df7ac0-6c01-48ea-9657-969c3cf2c97b" />
 <img width="1259" height="818" alt="Screenshot 2025-09-29 143625" src="https://github.com/user-attachments/assets/19ba68cf-8fdc-4e4a-b626-0757bbcdd0be" />
 <img width="1229" height="816" alt="Screenshot 2025-09-29 143643" src="https://github.com/user-attachments/assets/848d1baf-aca4-47ce-93f8-c823bd0ed195" />
-# REPOSITORY LINK
+## REPOSITORY LINK
 https://github.com/Yola-sudo/Web-Dev-POE
-# MY COMMITS
+##  MY COMMITS
 <img width="659" height="691" alt="Screenshot 2025-09-29 142623" src="https://github.com/user-attachments/assets/0d24830a-069e-4096-bca1-414c1618f10f" />
 <img width="643" height="697" alt="Screenshot 2025-09-29 143124" src="https://github.com/user-attachments/assets/d2e8e744-bef4-4f9a-b6f9-854bb6ccfd18" />
 <img width="652" height="691" alt="Screenshot 2025-09-29 144025" src="https://github.com/user-attachments/assets/f18f8017-f127-47b8-9327-fd653a9264b2" />
@@ -40,6 +40,8 @@ https://github.com/Yola-sudo/Web-Dev-POE
 <img width="369" height="503" alt="Screenshot 2025-11-04 125341" src="https://github.com/user-attachments/assets/93af5d01-4cc7-4356-8399-fba30a22e05b" />
 <img width="380" height="478" alt="Screenshot 2025-11-04 090205" src="https://github.com/user-attachments/assets/ac88fa02-2ec8-4a0c-af1e-eef57bb142a3" />
 <img width="369" height="494" alt="Screenshot 2025-11-04 083605" src="https://github.com/user-attachments/assets/23aaa7a7-e9c0-4d46-b044-e4eb8bd85875" />
+<img width="361" height="474" alt="Screenshot 2025-11-04 172045" src="https://github.com/user-attachments/assets/97536936-eba4-41b0-934c-013782cdd682" />
+
 ## CHANGES
 I implemented the feedback from Part One and ensured that my project adheres to the required standards. I have successfully implemented default styling code, typography styles, decorations, and color styles. Additionally, I correctly utilized pseudo-classes and media queries to enhance the responsiveness and interactivity of my project. The navigation menu has been styled accordingly. Furthermore, I have maintained a consistent commit history on GitHub, created a comprehensive README file, and established proper referencing.
 
@@ -59,6 +61,22 @@ I implemented the feedback from Part One and ensured that my project adheres to 
 <img width="1040" height="858" alt="Screenshot 2025-11-04 132220" src="https://github.com/user-attachments/assets/a8080c43-9571-49ac-8f37-c076d2403500" />
 <img width="1031" height="839" alt="Screenshot 2025-11-04 132232" src="https://github.com/user-attachments/assets/7e6e4ee2-c8b1-40d1-abfe-17d3503fb938" />
 <img width="862" height="758" alt="Screenshot 2025-11-04 132243" src="https://github.com/user-attachments/assets/9deff767-e763-41cf-93d9-67c794442da6" />
+## WEBSITE SCREENSHOOTS
+<img width="1895" height="998" alt="Screenshot 2025-11-04 172133" src="https://github.com/user-attachments/assets/3ad6e196-7ab9-48c4-a090-39fe039c9d0b" />
+<img width="1889" height="893" alt="Screenshot 2025-11-04 172152" src="https://github.com/user-attachments/assets/a915f264-abab-41f9-819e-cd041202d3c6" />
+<img width="1854" height="876" alt="Screenshot 2025-11-04 173930" src="https://github.com/user-attachments/assets/aa9462c1-ac74-432e-8e89-663c84691b10" />
+<img width="1861" height="874" alt="Screenshot 2025-11-04 173953" src="https://github.com/user-attachments/assets/f50dd3b9-4f63-4e20-8a3f-af5eedfa43f9" />
+<img width="1854" height="806" alt="Screenshot 2025-11-04 174011" src="https://github.com/user-attachments/assets/0234425d-4ff9-47d4-aead-3724a5752fa5" />
+<img width="1852" height="873" alt="Screenshot 2025-11-04 174053" src="https://github.com/user-attachments/assets/064ebb21-f261-41a6-ab22-e5be0ba204d1" />
+<img width="1722" height="804" alt="Screenshot 2025-11-04 174110" src="https://github.com/user-attachments/assets/6e18a4a1-9f67-48b0-b804-d815e3446f68" />
+<img width="1664" height="859" alt="Screenshot 2025-11-04 174126" src="https://github.com/user-attachments/assets/35890a6a-385c-42a8-90a1-9065bf4a3bfa" />
+<img width="1494" height="741" alt="Screenshot 2025-11-04 174549" src="https://github.com/user-attachments/assets/9f7d1296-cefc-450b-90e1-0a89bf6deadf" />
+<img width="1583" height="726" alt="Screenshot 2025-11-04 174609" src="https://github.com/user-attachments/assets/3eeeaae5-ef5c-49ac-958b-96fabd4fd954" />
+<img width="1737" height="723" alt="Screenshot 2025-11-04 174701" src="https://github.com/user-attachments/assets/2494efd4-b58d-48f2-9102-3aa763df0e75" />
+<img width="1833" height="777" alt="Screenshot 2025-11-04 174755" src="https://github.com/user-attachments/assets/83f1f9fd-93a4-4ef1-b72b-ecda93ce3a84" />
+
+## REPOSITORY LINK
+https://github.com/Yola-sudo/Web-Dev-POE
 ## REFERENCING
 <!--AIDS FOUNDATION OF SOUTH AFRICA,2025.CALL TO ACTION – PLEASE DONATE AND SAVE THE GAY AND LESBIAN NETWORK FROM CLOSURE[online] Availabe at:https://www.aids.org.za/call-to-action-please-donate-and-save-the-gay-and-lesbian-network-from-closure/ [Accessed 26 September 2025]-->
 <!--AIDS FOUNDATION OF SOUTH AFRICA,2025. Adolescent and Young Persons Programme  [online] Available at: https://www.aids.org.za/ayp-programme/ [Accessed 26 September 2025]-->
