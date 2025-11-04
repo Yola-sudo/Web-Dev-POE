@@ -60,7 +60,6 @@ I implemented the feedback from Part One and ensured that my project adheres to 
 <img width="1031" height="839" alt="Screenshot 2025-11-04 132232" src="https://github.com/user-attachments/assets/7e6e4ee2-c8b1-40d1-abfe-17d3503fb938" />
 <img width="862" height="758" alt="Screenshot 2025-11-04 132243" src="https://github.com/user-attachments/assets/9deff767-e763-41cf-93d9-67c794442da6" />
 ## REFERENCING
-<!--REFERENCING LIST-->
 <!--AIDS FOUNDATION OF SOUTH AFRICA,2025.CALL TO ACTION – PLEASE DONATE AND SAVE THE GAY AND LESBIAN NETWORK FROM CLOSURE[online] Availabe at:https://www.aids.org.za/call-to-action-please-donate-and-save-the-gay-and-lesbian-network-from-closure/ [Accessed 26 September 2025]-->
 <!--AIDS FOUNDATION OF SOUTH AFRICA,2025. Adolescent and Young Persons Programme  [online] Available at: https://www.aids.org.za/ayp-programme/ [Accessed 26 September 2025]-->
 <!--AIDS FONDATION OF SOUTH AFRICA,2025.AIDS FOUNDATION OF SOUTH AFRICA[electronic print]. Available at:https://www.aids.org.za/ [Accessed 26 September 2025] -->
