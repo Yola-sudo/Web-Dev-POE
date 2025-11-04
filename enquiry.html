@@ -1,34 +1,39 @@
 <!DOCTYPE html>
 <html>
-    <head>
+    <header>
+        <meta name = "description" content = "Simple search example for a website using JavaScript">
+         <meta name = "keywords" content = "HTML, CSS, JavaScript">
         <title>Enquiry</title><!--IIE,2025-->
          <link href="CSS/styles.css" rel="stylesheet" type="text/css"><!--IIE,2025-->
-    </head>
+    </header>
     <body>
-         <h1><u>Enquiries for Services</u></h1><!--IIE,2025-->
 
-        <form action="kamvasongca@gmail.com" method="post" enctype="text/plain"></form>  <!-- form action Tells the computer where to send the information when the form is submitted--> <!--IIE,2025-->
--->
-        <label for="firstName">First Name:</label><br><!--IIE,2025-->
-        <input type="text" id="firstName" name="firstName" required><br> <!--The input type defines what kind of data can be entered by the user--><!--IIE,2025-->
-        <label for="lastName">Last Name:</label><br><!--IIE,2025-->
-        
+        <h1>Enquiry Form Form</h1>
+        <form id = "enquiryForm">
+            <label for = "FirstName">First Name: </label>
+            <input type = "text" id = "firstname" name = "firstname">
+            <br>
+            <br>
 
-        <input type="radio" name="Volunteer" value="I want to be a volunteer"> <!-- The input type allows people to choose one option from a list--> <!--IIE,2025-->
--->
-        <label>I want to be a volunteer</label><br><!--IIE,2025-->
-        <input type="radio" name="sponsor" value="I want to be a sponsor"> <!--IIE,2025-->
-        <label>I want to be a sponsor</label><br><!--IIE,2025-->
-        <input type="radio" name="both" value="I want to be a sponsor and volunteer"> <!--IIE,2025-->
-        <label>I want to be  sponsor and voluteer</label><br><!--IIE,2025-->
-        <label for="message">Please enter questions you have down below:</label> <br><!--IIE,2025-->
-        <textarea name="message" id="message"></textarea> <br>  <!-- A textarea is a box where people can type a message or comment--> <!--IIE,2025-->
--->
-         
-        <input type="submit" value="Submit"><br><!--This creates a button for the user to use so they can submit the form--> <!--IIE,2025-->
-        <input type="reset" value="Clear"><br><!--if the user want to clear their form thy use this button--> <!--IIE,2025-->
+            <label for = "LastName">Last Name: </label>
+            <input type = "text" id = "lastname" name = "lastname">
+            <br>
+            <br>
 
-    
+            <label for = "email">Email: </label>
+            <input type = "text" id = "email" name = "email">
+            <br>
+            <br>
+
+            <label for = "password">Password: </label>
+            <input type = "password" id = "password" name = "password">
+            <br>
+            <br>
+
+            <button type = "submit">Submit</button>
+        </form>
+
+        <p id = "validationError" style = "color: rgb(139, 84, 150);"></p>
 
 
     <a href="home.html" target="_blank"> Home Page</a> <!--IIE,2025-->
@@ -36,6 +41,8 @@
     <a href="services.html" target="_blank"> Services</a> <!--IIE,2025-->
     <a href="enquiry.html" target="_blank"> Enquiry</a> <!--IIE,2025-->
     <a href="contact.html" target="_blank"> Contact</a>  <!--IIE,2025-->
+    
+    <script src="js/java.js"></script>
     <footer>
     &copy; 2024 Aids Foundation South Africa. All rights reserved.
 </footer><!--IIE,2025-->

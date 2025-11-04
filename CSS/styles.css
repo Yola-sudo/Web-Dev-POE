@@ -1,103 +1,159 @@
 body{
     background-color: rgb(126, 126, 175);  
-}
-h1{
-    font-size: xx-large;
-    font-family: cursive;
-    letter-spacing: normal;
-    line-height: 2.0em;
-    margin-top:  0.24em;
-    padding-top: 1em;
-}
- h2{
-    font-size: xx-large;
-    font-family: cursive;
-    letter-spacing: normal;
-    line-height: 2.0em;
-    margin-top:  0.24em;
-    padding-top: 1em;
-    align-content: center;
-
-    
- }
-
-a {
-    color-scheme: dark;
-    color: rgb(26, 7, 154);
-    font-style: italic;
-}
-p{
-    font-size: 2em;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 400;
-    letter-spacing: 0.05em;
-    line-height: 1.5em;
-    margin-top:  0.24em;
-    padding-top: 1em;
-   align-content: center;
-}
-/* unvisited link */
-a:link {
-  color: red;
-}
-
-/* visited link */
-a:visited {
-  color: rgb(84, 6, 108);
-}
-
-/* mouse over link */
-a:hover {
-  color: hotpink;
-}
-
-/* selected link */
-a:active {
-  color: blue;
-}
-/* On screens that are 800px wide or less, the background color is blue */
-@media screen and (max-width: 800px) {
-  body {
-    background-color: blue;
-    color: white;
-  }
-}
-
-/* On screens that are 600px wide or less, the background color is olive */
-@media screen and (max-width: 400px) {
-  body {
-    background-color: rgb(133, 212, 244);
-    color: white;
-  }
-}
-
-.container {
-  display: grid;
-  grid-template-columns: 1fr; /* single column by default */
-}
-
-@media (min-width: 768px) {
-  .container {
-    grid-template-columns: repeat(2, 1fr); /* two columns on larger screens */
-  }
-}
-  
-
-td,th {
-font-size: 2.5em;
-
+    animation: fadeIn 3s;
+    margin:0;
+    padding:0; 
+    font-family: Arial, Helvetica, sans-serif; 
 }
 
 
-
-a {
-  font-size: 2em;
-}
-footer{
-  font-size: 2em;
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: bold;
+  color: rgb(100, 20, 171);
   text-align: center;
 
 }
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: bold;
+  color: rgb(100, 20, 171);
+  text-align: center;
+
+}
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: bold;
+  color: rgb(89, 9, 111);
+  text-align: center;
+}
+img {
+  max-width: 30%;
+  width:15%;
+  box-shadow:5px 5px 15px rgba(0,0,0,0.9);
+  height: auto;
+  margin:0 auto;
+  display:block
+  
+}
+.different-image {
+   max-width:300px;
+  height: 300px;
+
+}
+footer{
+  text-align: center;
+  background-color:rgb(126, 126, 205) ;
+}
+header{
+  text-align: center;
+  padding: 10px;
+  display: flex;
+  background-color: rgb(126, 126, 205);
+}
 
 
+a {
+  display: block;
+  margin-right: 20%;
+}
 
+a:hover {
+ background-color: #facefb;
+ color: #23527c;
+ transition: all 0.8s ease-in-out;
+}
+a:active{
+  transform: scale(0.9);
+  box-shadow: none;
+}
+/* For small screens (mobile devices) */
+@media only screen and (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* For medium screens (tablets) */
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+  body {
+    font-size: 16px;
+  }
+  img {
+    width: 80%;
+    height: auto;
+  }
+}
+
+/* For large screens (desktops) */
+@media only screen and (min-width: 1025px) {
+  body {
+    font-size: 18px;
+  }
+  img {
+    width: 60%;
+    height: auto;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+table{
+  border: 1px;
+  background-color: rgb(138, 138, 214);
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Responsive Typography */
+
+@media (max-width: 1024px) {
+  body {
+    font-size: 16px;
+  }
+  h1 {
+    font-size: 30px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+  h1 {
+    font-size: 24px;
+  }
+  h2 {
+    font-size: 18px;
+  }
+}
+@media (max-width: 480px) {
+  body {
+    font-size: 12px;
+  }
+  h1 {
+    font-size: 20px;
+  }
+  h2 {
+    font-size: 16px;
+  }
+}
