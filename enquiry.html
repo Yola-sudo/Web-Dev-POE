@@ -5,44 +5,48 @@
          <meta name = "keywords" content = "HTML, CSS, JavaScript">
         <title>Enquiry</title><!--IIE,2025-->
          <link href="CSS/styles.css" rel="stylesheet" type="text/css"><!--IIE,2025-->
+        <div >
+        <a href="images/AIDS FOUND OF SA" data-lightbox="Logo" title="AIDS FOUNDATION OF SOUTH AFRICA"><img src="images/AIDS FOUND OF SA"  alt="an image of the WWF organisation" class="image-style different-image"></a> <!--a picture tag so that i can put pictures in my work--> <!--IIE,2025-->
+        <nav>
+        <a href="home.html" target="_blank"> Home Page</a> <!--IIE,2025-->
+        <a href="aboutus.html" target="_blank"> About Us</a> <!--IIE,2025-->
+        <a href="services.html" target="_blank"> Services</a> <!--IIE,2025-->
+        <a href="enquiry.html" target="_blank"> Enquiry</a> <!--IIE,2025-->
+        <a href="contact.html" target="_blank"> Contact</a>  <!--IIE,2025-->
+        </nav>
+        </div>
     </header>
     <body>
+        <form id="EnquiryForm">
+        <label for="firstname">First Name</label>
+        <input id="firstname" name="firstname" type="text">
+<br><br>
+        <label for="lastname">Last Name</label>
+        <input id="lastname" name="lastname" type="text">
+    <br><br>
+        <label for="enquiry">What is your enquiry?</label><br>
+        <input type="radio" name="volunteer" value="volunteer">
+        <label>I want to be a volunteer</label><br>
+        <input type="radio" name="sponsor" value="sponsor">
+        <label>I want to be a sponsor</label>
+       <br><br>
+        <label for = "email">Email: </label>
+        <input type = "text" id = "email" name = "email">
+       <br><br>
+        <label for="password">Password</label>
+        <input id="password" name="password" type="text">
+       <br><br>
+       <label for="comments">If you have any comments or feedback, please let us know!!</label><br>
+       <textarea id="comments" name="comments" value="comments"></textarea><br>
+    <br><br>
+       <button type="submit">Submit</button>
+    </form>
 
-        <h1>Enquiry Form Form</h1>
-        <form id = "enquiryForm">
-            <label for = "FirstName">First Name: </label>
-            <input type = "text" id = "firstname" name = "firstname">
-            <br>
-            <br>
-
-            <label for = "LastName">Last Name: </label>
-            <input type = "text" id = "lastname" name = "lastname">
-            <br>
-            <br>
-
-            <label for = "email">Email: </label>
-            <input type = "text" id = "email" name = "email">
-            <br>
-            <br>
-
-            <label for = "password">Password: </label>
-            <input type = "password" id = "password" name = "password">
-            <br>
-            <br>
-
-            <button type = "submit">Submit</button>
-        </form>
-
-        <p id = "validationError" style = "color: rgb(139, 84, 150);"></p>
+     <p id = "validationError" style = "color: red;"></p>
+        <script src = "JS/java.js"></script>
 
 
-    <a href="home.html" target="_blank"> Home Page</a> <!--IIE,2025-->
-    <a href="aboutus.html" target="_blank"> About Us</a> <!--IIE,2025-->
-    <a href="services.html" target="_blank"> Services</a> <!--IIE,2025-->
-    <a href="enquiry.html" target="_blank"> Enquiry</a> <!--IIE,2025-->
-    <a href="contact.html" target="_blank"> Contact</a>  <!--IIE,2025-->
-    
-    <script src="js/java.js"></script>
+        
     <footer>
     &copy; 2024 Aids Foundation South Africa. All rights reserved.
 </footer><!--IIE,2025-->

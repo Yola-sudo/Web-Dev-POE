@@ -2,21 +2,20 @@
 // content to be loaded 
 document.addEventListener('DOMContentLoaded'), function() {
     // we load in our form and our error message
-    const registrationForm = document.getElementById('EequiryForm');
+    const EnquiryForm = document.getElementById('EnquiryForm');
     const errorMessage = document.getElementById('validationError');
-
 
     // now we tell it what to do when the form is submitted
     // we pass "event" through to the new funtion we're making
     // so that we can use some of its properties
-    registrationForm.addEventListener('submit'), function(event) {
+    EnquiryForm.addEventListener('submit'), function(event) {
         //this prevents the form from being submitted if there are errors
         event.preventDefault();
 
         // we clear all of the errors first (in case they are resubmitting)
         // first we load the form elements
-        const username = document.getElementById('firstname');
-        const fullname = document.getElementById('lastname');
+        const firstname = document.getElementById('firstname');
+        const lastname = document.getElementById('lastname');
         const email = document.getElementById('email');
         const password = document.getElementById('password');
 
@@ -31,28 +30,28 @@ document.addEventListener('DOMContentLoaded'), function() {
         let valid = true;
 
         // we start by checkimg if they've entered something in the username box.
-        if (username.value.trim() === ""){
+        if (firstname.value.trim() === ""){
             // highlight the box red 
-            username.style.borderColor = "red";
+            firstname.style.borderColor = "red";
             //update our error message
-            errorMessage.textContent = "First Name is required!";
+            errorMessage.textContent = "Username is required!";
             // and set that the form is no longer valid
             valid = false;
         } else {
             // otherwise, highlight in green to show it is valid and good
-            username.style.borderColor = "green";
+            firstname.style.borderColor = "green";
         }
 
-        if (fullname.value.trim() === ""){
+        if (lastname.value.trim() === ""){
             // highlight the box red 
-            fullname.style.borderColor = "red";
+            lastname.style.borderColor = "red";
             //update our error message
-            errorMessage.textContent = "Last name is required!";
+            errorMessage.textContent = "Full name is required!";
             // and set that the form is no longer valid
             valid = false;
         } else {
             // otherwise, highlight in green to show it is valid and good
-            fullname.style.borderColor = "green";
+            lastname.style.borderColor = "green";
         }
 
         // getting the entered email address from the form field, and extracting where "@" and the last "." are
@@ -97,17 +96,19 @@ document.addEventListener('DOMContentLoaded'), function() {
                 errorMessage.textContent = "Form submitted successfully!";
 
                 // and clear the form for the next entry
-                registrationForm.reset();
+                Form.reset();
 
                 // after waiting 2 secs reset colours and error message
                 setTimeout(() => {
-                    username.style.borderColor = "";
-                    fullname.style.borderColor = "";
+                    firstname.style.borderColor = "";
+                    lastname.style.borderColor = "";
                     email.style.borderColor = "";
                     password.style.borderColor = "";
-                    errorMessage.style.color = "purple";
+                    errorMessage.style.color = "red";
                     errorMessage.textContent = "";
                 }, 2000);
             }
+
     }
 }
+

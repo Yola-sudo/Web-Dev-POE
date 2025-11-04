@@ -43,26 +43,26 @@ img {
   
 }
 .different-image {
-   max-width:300px;
-  height: 300px;
-
+   width: 150px;
+   height:auto;
 }
 footer{
   text-align: center;
   background-color:rgb(126, 126, 205) ;
 }
 header{
-  text-align: center;
-  padding: 10px;
-  display: flex;
+  
   background-color: rgb(126, 126, 205);
+  
+
+}
+nav{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 10px;
 }
 
-
-a {
-  display: block;
-  margin-right: 20%;
-}
 
 a:hover {
  background-color: #facefb;
